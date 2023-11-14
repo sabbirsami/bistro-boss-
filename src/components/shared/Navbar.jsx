@@ -14,22 +14,22 @@ const Navbar = () => {
                         <NavLink to={"/"}>Home</NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/"}>contact us</NavLink>
+                        <NavLink to={"/contact"}>contact us</NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/"}>dashboard</NavLink>
+                        <NavLink to={"/dashboard"}>dashboard</NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/"}>our menu</NavLink>
+                        <NavLink to={"/menu"}>our menu</NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/"}>our shop</NavLink>
+                        <NavLink to={"/shop"}>our shop</NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/"}>cart</NavLink>
+                        <NavLink to={"/cart"}>cart</NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/"}>sign in</NavLink>
+                        <NavLink to={"/sign-in"}>sign in</NavLink>
                     </li>
                 </ul>
             </nav>

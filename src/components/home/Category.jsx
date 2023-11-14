@@ -35,14 +35,7 @@ const Category = () => {
                     />
                     <h3 className="text-3xl text-center -mt-20 pb-20">Pizza</h3>
                 </SwiperSlide>
-                <SwiperSlide>
-                    <img
-                        className="w-full object-cover h"
-                        src={slide2}
-                        alt=""
-                    />
-                    <h3 className="text-3xl text-center -mt-20 pb-20">Pizza</h3>
-                </SwiperSlide>
+
                 <SwiperSlide>
                     <img
                         className="w-full object-cover h"
